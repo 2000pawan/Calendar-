@@ -22,7 +22,7 @@ A simple and user-friendly **Python GUI Calendar** application built using **Tki
 3. Run the script:
 
    ```bash
-   python calendar_gui.py
+   python calendar.py
    
 ## 📸 Screenshot
 
