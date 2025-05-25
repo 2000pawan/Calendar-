@@ -39,10 +39,6 @@ calendar
 
 datetime
 
-Install PIL if not available:
-
-   ```bash
-   pip install pillow
 
 ## 📂 File Structure
 
