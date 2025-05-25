@@ -41,7 +41,8 @@ datetime
 
 Install PIL if not available:
 
-pip install pillow
+   ```bash
+   pip install pillow
 
 ## 📂 File Structure
 
