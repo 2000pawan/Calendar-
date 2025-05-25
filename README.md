@@ -15,7 +15,7 @@ A simple and user-friendly **Python GUI Calendar** application built using **Tki
 
 ## 🚀 How to Run
 
-1. **Clone this repository** or download the Python file.
+1. **Clone this repository** or download the Python file.(https://github.com/2000pawan/Calendar-.git)
 
 2. Make sure you have **Python 3.x** installed.
 
