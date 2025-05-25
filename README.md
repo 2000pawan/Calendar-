@@ -43,6 +43,7 @@ datetime
 ## 📂 File Structure
 
 calendar_gui.py   # Main Python file
+
 README.md         # Project documentation
 
 ## 👨‍💻 Author
