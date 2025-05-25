@@ -42,7 +42,7 @@ datetime
 
 ## 📂 File Structure
 
-calendar_gui.py   # Main Python file
+calendar.py   # Main Python file
 
 README.md         # Project documentation
 
